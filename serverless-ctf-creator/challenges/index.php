@@ -12,9 +12,13 @@
 				$challenge_name = "Example Challenge 1";
 				break;
 
+			case "example-challenge-2":
+				$challenge_name = "Example Challenge 2";
+				break;
+
 			//More cases for all the other challenges
-			//case "example-challenge-2":
-			//	$challenge_name = "Example Challenge 2";
+			//case "example-challenge-3":
+			//	$challenge_name = "Example Challenge 3";
 			//	break;
 				
 			default:
